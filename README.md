@@ -2,7 +2,7 @@
 
 2.	Качаем файл "arduino-littlefs-upload-1.6.3.vsix" для работы с littlefs по ссылке: https://github.com/earlephilhower/arduino-littlefs-upload/releases 
 
-3.	Создаем папку C:\Users\ИМЯ_ПОЛЬЗОВАТЕЛЯ\.arduinoIDE\plugins\ и вставляем в нее этот файл.
+3.	Создаем папку C:\Users\<ИМЯ_ПОЛЬЗОВАТЕЛЯ>\.arduinoIDE\plugins\ и вставляем в нее этот файл.
 
 4. Открываем arduino 2.3.8. File – Preferences - В меню настроек вставить ссылку:
 

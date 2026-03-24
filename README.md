@@ -20,6 +20,9 @@ https://espressif.github.io/arduino-esp32/package_esp32_dev_index.json,https://e
 
 7. Скачать библиотеки:
 <img width="132" height="265" alt="изображение" src="https://github.com/user-attachments/assets/da7b0409-5669-44a2-8d66-b41bde3f7a7d" />
+ps:
+-> Replace file Arduino/libraries/Adafruit_GFX_Library/glcdfont.c with file yoRadio/fonts/glcdfont.c
+Restart Arduino IDE. <-
 
 8.	Из папки «Audio+fix+core+3.3.5» копируем с заменой два файла для ESP32S3 в папку:
 C:\Users\ ИМЯ_ПОЛЬЗОВАТЕЛЯ \AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\3.3.6\lib 
